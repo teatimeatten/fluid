@@ -1,0 +1,10 @@
+node_modules/
+**env*
+**debug**
+**DS_STORE**
+**dump**
+docs/
+**._*
+.hg**
+pro
+dist/
